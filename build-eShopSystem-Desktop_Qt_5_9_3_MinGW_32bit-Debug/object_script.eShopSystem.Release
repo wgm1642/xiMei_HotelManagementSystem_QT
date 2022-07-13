@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\login.o
+./release\kdatabase.o
+./release\registdialog.o
+./release\mema.o
+./release\kproduct.o
+./release\moc_mainwindow.o
+./release\moc_login.o
+./release\moc_registdialog.o
+./release\moc_mema.o
+./release\moc_kproduct.o
+);
